@@ -27,3 +27,12 @@ E.g.
 ```
 9.547
 ```
+
+-Execute the script:
+```
+python meeting_scheduler.py rooms.txt 5,80,11:00,14:00
+python meeting_scheduler.py rooms.txt 8,9,10:30,11:00
+python meeting_scheduler.py rooms.txt 8,9,10:30,12:00
+python meeting_scheduler.py rooms.txt 50,9,10:30,12:00
+python meeting_scheduler.py rooms.txt 5,9,10:30,12:xx
+```
