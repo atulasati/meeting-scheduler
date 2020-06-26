@@ -5,7 +5,7 @@ Find the nearest open conference room for a team in which a team can hold its me
 Given n team members with the floor on which they work and the time they want to meet, 
 and a list of conference rooms identified by their floor and room number as a decimal number, 
 maximum number of people it fits and pairs of times they are open 
-- find the best place for the team to have their meeting. 
+- Find the best place for the team to have their meeting. 
 If there is more than one room available that fits the team at the chosen time then the best place is on the floor the closest to where the team works.
 
 E.g.
