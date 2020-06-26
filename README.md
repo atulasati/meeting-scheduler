@@ -1,7 +1,7 @@
 # Meeting Scheduler
 
-- Programming Pre-Screen: [Conference room scheduling]:
-Find the nearest open conference room for a team in which a team can hold its meeting.
+
+- Find the nearest open conference room for a team in which a team can hold its meeting.
 Given n team members with the floor on which they work and the time they want to meet, 
 and a list of conference rooms identified by their floor and room number as a decimal number, 
 maximum number of people it fits and pairs of times they are open 
