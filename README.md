@@ -1,4 +1,4 @@
-# meeting-scheduler
+# Meeting Scheduler
 
 - Programming Pre-Screen: [Conference room scheduling]:
 Find the nearest open conference room for a team in which a team can hold its meeting.
